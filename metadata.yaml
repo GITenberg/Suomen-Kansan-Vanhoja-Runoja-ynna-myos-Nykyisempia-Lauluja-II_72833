@@ -1,0 +1,25 @@
+_repo: Suomen-Kansan-Vanhoja-Runoja-ynna-myos-Nykyisempia-Lauluja-II_72833
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: senior, Zacharias Topelius
+    gutenberg_agent_id: '56825'
+    url: http://www.gutenberg.org/2009/agents/56825
+description: ''
+gutenberg_issued: '2024-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72833'
+language: fi
+pgterms:marc905: 20240129005442topeliusva
+pgterms:marc906: '1823'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aTurku :$bJ. C. Frenckell ja Poika, $c1823.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suomen Kansan Vanhoja Runoja ynnä myös Nykyisempiä Lauluja II
+url: http://www.gutenberg.org/ebooks/72833
