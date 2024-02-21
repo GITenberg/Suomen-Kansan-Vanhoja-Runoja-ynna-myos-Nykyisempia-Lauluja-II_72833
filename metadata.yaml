@@ -5,7 +5,12 @@ contributor:
     agent_name: senior, Zacharias Topelius
     gutenberg_agent_id: '56825'
     url: http://www.gutenberg.org/2009/agents/56825
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72833#Suomen-Kansan-Vanhoja-Runoja-ynna-myos-Nykyisempia-Lauluja-II
 gutenberg_issued: '2024-01-30'
 gutenberg_type: Text
 identifiers:
